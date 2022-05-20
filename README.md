@@ -7,10 +7,14 @@ to choose the best one for himself/herself.
 Datasets: The datasets are taken from government website of the United States(link).
 
 Database, Database Tool
+
 •	MySQL 
+
 •	MySQL Workbench
+
 Other Tools:
-•	Microsoft Excel
+
+• Microsoft Excel
 
 Data Analysis: Data analysis queries included in the Queries_Data_Analysis.sql file, providing some insights for students to benefit for college selection
 
