@@ -5,8 +5,8 @@ College-Selection-Platform provides a database, helping a student in search of a
 to choose the best one for himself/herself. 
 
 Datasets: The datasets are taken from government website of the United States [link](https://collegescorecard.ed.gov/data/). <br>
-(Most-Recent-Cohorts-All-Data-Elements - 42 columns, 6695 rows) <br>
-(Most-Recent-Cohorts-Field-of-Study - 92 columns, 260532 rows)
+(Most-Recent-Cohorts-Institution_09012022 - 2989 columns, 6682 rows) <br>
+(Most-Recent-Cohorts-Field-of-Study - 121 columns, 224818 rows)
 
 ## **Database, Database Tool, Other Tools**
 
